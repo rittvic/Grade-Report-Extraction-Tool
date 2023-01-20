@@ -1,0 +1,766 @@
+{
+  "102": {
+    "Abbreviation": "A F AERO",
+    "Subject Area": "Air Force Aerospace Studies"
+  },
+  "104": {
+    "Abbreviation": "AFRICAN",
+    "Subject Area": "African Cultural Studies"
+  },
+  "106": {
+    "Abbreviation": "AFROAMER",
+    "Subject Area": "Afro-American Studies"
+  },
+  "108": {
+    "Abbreviation": "A A E",
+    "Subject Area": "Agricultural and Applied Economics"
+  },
+  "112": {
+    "Abbreviation": "BSE",
+    "Subject Area": "Biological Systems Engineering"
+  },
+  "120": {
+    "Abbreviation": "LSC",
+    "Subject Area": "Life Sciences Communication"
+  },
+  "130": {
+    "Abbreviation": "AGROECOL",
+    "Subject Area": "Agroecology"
+  },
+  "132": {
+    "Abbreviation": "AGRONOMY",
+    "Subject Area": "Agronomy"
+  },
+  "140": {
+    "Abbreviation": "AMER IND",
+    "Subject Area": "American Indian Studies"
+  },
+  "144": {
+    "Abbreviation": "ANATOMY",
+    "Subject Area": "Anatomy"
+  },
+  "146": {
+    "Abbreviation": "ANAT&PHY",
+    "Subject Area": "Anatomy & Physiology"
+  },
+  "148": {
+    "Abbreviation": "ANESTHES",
+    "Subject Area": "Anesthesiology"
+  },
+  "156": {
+    "Abbreviation": "ANTHRO",
+    "Subject Area": "Anthropology"
+  },
+  "160": {
+    "Abbreviation": "ABT",
+    "Subject Area": "Applied Biotechnology"
+  },
+  "168": {
+    "Abbreviation": "ART",
+    "Subject Area": "Art Department"
+  },
+  "176": {
+    "Abbreviation": "ART ED",
+    "Subject Area": "Art Education (Department of Art)"
+  },
+  "180": {
+    "Abbreviation": "ART HIST",
+    "Subject Area": "Art History"
+  },
+  "184": {
+    "Abbreviation": "ASIAN AM",
+    "Subject Area": "Asian American Studies"
+  },
+  "185": {
+    "Abbreviation": "ASIAN",
+    "Subject Area": "Asian Languages and Cultures"
+  },
+  "186": {
+    "Abbreviation": "ASIALANG",
+    "Subject Area": "Asian Languages and Cultures: Languages"
+  },
+  "188": {
+    "Abbreviation": "ASTRON",
+    "Subject Area": "Astronomy"
+  },
+  "192": {
+    "Abbreviation": "MICROBIO",
+    "Subject Area": "Microbiology"
+  },
+  "194": {
+    "Abbreviation": "RP & SE",
+    "Subject Area": "Rehabilitation Psychology and Special Education"
+  },
+  "200": {
+    "Abbreviation": "BIOCHEM",
+    "Subject Area": "Biochemistry"
+  },
+  "205": {
+    "Abbreviation": "BIOLOGY",
+    "Subject Area": "Biology"
+  },
+  "206": {
+    "Abbreviation": "BIOCORE",
+    "Subject Area": "Biology Core Curriculum"
+  },
+  "207": {
+    "Abbreviation": "B M E",
+    "Subject Area": "Biomedical Engineering"
+  },
+  "208": {
+    "Abbreviation": "BOTANY",
+    "Subject Area": "Botany"
+  },
+  "210": {
+    "Abbreviation": "B M I",
+    "Subject Area": "Biostatistics and Medical Informatics"
+  },
+  "217": {
+    "Abbreviation": "CRB",
+    "Subject Area": "Cell and Regenerative Biology"
+  },
+  "220": {
+    "Abbreviation": "CBE",
+    "Subject Area": "Chemical and Biological Engineering"
+  },
+  "224": {
+    "Abbreviation": "CHEM",
+    "Subject Area": "Chemistry"
+  },
+  "228": {
+    "Abbreviation": "CHICLA",
+    "Subject Area": "Chicana/o and Latina/o Studies"
+  },
+  "229": {
+    "Abbreviation": "DERM",
+    "Subject Area": "Dermatology"
+  },
+  "230": {
+    "Abbreviation": "HDFS",
+    "Subject Area": "Human Development and Family Studies"
+  },
+  "231": {
+    "Abbreviation": "GEN BUS",
+    "Subject Area": "General Business"
+  },
+  "232": {
+    "Abbreviation": "ACCT I S",
+    "Subject Area": "Accounting and Information Systems"
+  },
+  "233": {
+    "Abbreviation": "FINANCE",
+    "Subject Area": "Finance, Investment and Banking"
+  },
+  "234": {
+    "Abbreviation": "INFO SYS",
+    "Subject Area": "Information Systems"
+  },
+  "235": {
+    "Abbreviation": "INTL BUS",
+    "Subject Area": "International Business"
+  },
+  "236": {
+    "Abbreviation": "M H R",
+    "Subject Area": "Management and Human Resources"
+  },
+  "237": {
+    "Abbreviation": "MARKETNG",
+    "Subject Area": "Marketing"
+  },
+  "238": {
+    "Abbreviation": "OTM",
+    "Subject Area": "Operations and Technology Management"
+  },
+  "239": {
+    "Abbreviation": "REAL EST",
+    "Subject Area": "Real Estate and Urban Land Economics"
+  },
+  "240": {
+    "Abbreviation": "CIV ENGR",
+    "Subject Area": "Civil and Environmental Engineering"
+  },
+  "241": {
+    "Abbreviation": "R M I",
+    "Subject Area": "Risk Management and Insurance"
+  },
+  "242": {
+    "Abbreviation": "ACT SCI",
+    "Subject Area": "Actuarial Science"
+  },
+  "244": {
+    "Abbreviation": "CLASSICS",
+    "Subject Area": "Classics"
+  },
+  "247": {
+    "Abbreviation": "CSCS",
+    "Subject Area": "Civil Society and Community Studies"
+  },
+  "250": {
+    "Abbreviation": "COM ARTS",
+    "Subject Area": "Communication Arts"
+  },
+  "252": {
+    "Abbreviation": "CS&D",
+    "Subject Area": "Communication Sciences and Disorders"
+  },
+  "260": {
+    "Abbreviation": "COMP LIT",
+    "Subject Area": "Comparative Literature"
+  },
+  "266": {
+    "Abbreviation": "COMP SCI",
+    "Subject Area": "Computer Sciences"
+  },
+  "270": {
+    "Abbreviation": "COUN PSY",
+    "Subject Area": "Counseling Psychology"
+  },
+  "271": {
+    "Abbreviation": "CNSR SCI",
+    "Subject Area": "Consumer Science"
+  },
+  "272": {
+    "Abbreviation": "CURRIC",
+    "Subject Area": "Curriculum and Instruction"
+  },
+  "292": {
+    "Abbreviation": "DY SCI",
+    "Subject Area": "Dairy Science"
+  },
+  "295": {
+    "Abbreviation": "E ASIAN",
+    "Subject Area": "East Asian Languages and Literature"
+  },
+  "296": {
+    "Abbreviation": "ECON",
+    "Subject Area": "Economics"
+  },
+  "298": {
+    "Abbreviation": "E A STDS",
+    "Subject Area": "East Asian Area Studies"
+  },
+  "305": {
+    "Abbreviation": "ELPA",
+    "Subject Area": "Educational Leadership and Policy Analysis"
+  },
+  "310": {
+    "Abbreviation": "ED POL",
+    "Subject Area": "Educational Policy Studies"
+  },
+  "315": {
+    "Abbreviation": "ED PSYCH",
+    "Subject Area": "Educational Psychology"
+  },
+  "320": {
+    "Abbreviation": "E C E",
+    "Subject Area": "Electrical and Computer Engineering"
+  },
+  "330": {
+    "Abbreviation": "EMER MED",
+    "Subject Area": "Emergency Medicine"
+  },
+  "346": {
+    "Abbreviation": "E M A",
+    "Subject Area": "Engineering Mechanics and Aerospace Engineering"
+  },
+  "347": {
+    "Abbreviation": "E P",
+    "Subject Area": "Engineering Physics"
+  },
+  "348": {
+    "Abbreviation": "E P D",
+    "Subject Area": "Engineering Professional Development"
+  },
+  "351": {
+    "Abbreviation": "ESL",
+    "Subject Area": "English as a Second Language"
+  },
+  "352": {
+    "Abbreviation": "ENGL",
+    "Subject Area": "English"
+  },
+  "355": {
+    "Abbreviation": "ENTOM",
+    "Subject Area": "Entomology"
+  },
+  "359": {
+    "Abbreviation": "DS",
+    "Subject Area": "Design Studies"
+  },
+  "360": {
+    "Abbreviation": "ENVIR ST",
+    "Subject Area": "Environmental Studies - Gaylord Nelson Institute"
+  },
+  "362": {
+    "Abbreviation": "M&ENVTOX",
+    "Subject Area": "Molecular and Environmental Toxicology"
+  },
+  "370": {
+    "Abbreviation": "FAM MED",
+    "Subject Area": "Family Medicine"
+  },
+  "375": {
+    "Abbreviation": "FISC",
+    "Subject Area": "Farm & Industry Short Course"
+  },
+  "380": {
+    "Abbreviation": "FOLKLORE",
+    "Subject Area": "Folklore Program"
+  },
+  "390": {
+    "Abbreviation": "FOOD SCI",
+    "Subject Area": "Food Science"
+  },
+  "396": {
+    "Abbreviation": "F&W ECOL",
+    "Subject Area": "Forest and Wildlife Ecology"
+  },
+  "400": {
+    "Abbreviation": "FRENCH",
+    "Subject Area": "French (French and Italian)"
+  },
+  "412": {
+    "Abbreviation": "GENETICS",
+    "Subject Area": "Genetics"
+  },
+  "416": {
+    "Abbreviation": "GEOG",
+    "Subject Area": "Geography"
+  },
+  "418": {
+    "Abbreviation": "G L E",
+    "Subject Area": "Geological Engineering"
+  },
+  "420": {
+    "Abbreviation": "GEOSCI",
+    "Subject Area": "Geoscience"
+  },
+  "424": {
+    "Abbreviation": "GERMAN",
+    "Subject Area": "German"
+  },
+  "425": {
+    "Abbreviation": "GNS",
+    "Subject Area": "German, Nordic, and Slavic"
+  },
+  "428": {
+    "Abbreviation": "GREEK",
+    "Subject Area": "Greek (Classics)"
+  },
+  "436": {
+    "Abbreviation": "OBS&GYN",
+    "Subject Area": "Obstetrics and Gynecology"
+  },
+  "440": {
+    "Abbreviation": "HEBR ST",
+    "Subject Area": "Hebrew (Hebrew and Semitism)"
+  },
+  "441": {
+    "Abbreviation": "HEBR-BIB",
+    "Subject Area": "Hebrew-Biblical"
+  },
+  "442": {
+    "Abbreviation": "HEBR-MOD",
+    "Subject Area": "Hebrew-Modern"
+  },
+  "448": {
+    "Abbreviation": "HISTORY",
+    "Subject Area": "History"
+  },
+  "452": {
+    "Abbreviation": "MED HIST",
+    "Subject Area": "Medical History and Bioethics"
+  },
+  "456": {
+    "Abbreviation": "HIST SCI",
+    "Subject Area": "History of Science"
+  },
+  "476": {
+    "Abbreviation": "HORT",
+    "Subject Area": "Horticulture"
+  },
+  "480": {
+    "Abbreviation": "H ONCOL",
+    "Subject Area": "Human Oncology"
+  },
+  "490": {
+    "Abbreviation": "I SY E",
+    "Subject Area": "Industrial and Systems Engineering"
+  },
+  "494": {
+    "Abbreviation": "INTER-AG",
+    "Subject Area": "Interdisciplinary Courses (CALS)"
+  },
+  "495": {
+    "Abbreviation": "INTEGART",
+    "Subject Area": "Integrated Arts"
+  },
+  "496": {
+    "Abbreviation": "INTEREGR",
+    "Subject Area": "Interdisciplinary Courses (Engineering)"
+  },
+  "498": {
+    "Abbreviation": "INTER-HE",
+    "Subject Area": "Interdisciplinary Courses (SOHE)"
+  },
+  "500": {
+    "Abbreviation": "ILS",
+    "Subject Area": "Integrated Liberal Studies"
+  },
+  "502": {
+    "Abbreviation": "INTER-LS",
+    "Subject Area": "Interdisciplinary Courses (L&S)"
+  },
+  "503": {
+    "Abbreviation": "INTEGSCI",
+    "Subject Area": "Integrated Science"
+  },
+  "504": {
+    "Abbreviation": "INTL ST",
+    "Subject Area": "International Studies"
+  },
+  "508": {
+    "Abbreviation": "ITALIAN",
+    "Subject Area": "Italian (French and Italian)"
+  },
+  "510": {
+    "Abbreviation": "JEWISH",
+    "Subject Area": "Jewish Studies"
+  },
+  "512": {
+    "Abbreviation": "JOURN",
+    "Subject Area": "Journalism and Mass Communication"
+  },
+  "520": {
+    "Abbreviation": "LAND ARC",
+    "Subject Area": "Landscape Architecture"
+  },
+  "521": {
+    "Abbreviation": "LCA",
+    "Subject Area": "Languages and Cultures of Asia"
+  },
+  "522": {
+    "Abbreviation": "LCA LANG",
+    "Subject Area": "Language and Cultures of Asia"
+  },
+  "524": {
+    "Abbreviation": "LATIN",
+    "Subject Area": "Latin (Classics)"
+  },
+  "525": {
+    "Abbreviation": "LACIS",
+    "Subject Area": "Latin American, Caribbean, and Iberian Studies"
+  },
+  "528": {
+    "Abbreviation": "LAW",
+    "Subject Area": "Law"
+  },
+  "535": {
+    "Abbreviation": "LEGAL ST",
+    "Subject Area": "Legal Studies"
+  },
+  "544": {
+    "Abbreviation": "L I S",
+    "Subject Area": "Library and Information Studies"
+  },
+  "550": {
+    "Abbreviation": "LINGUIS",
+    "Subject Area": "Linguistics"
+  },
+  "551": {
+    "Abbreviation": "LITTRANS",
+    "Subject Area": "Literature in Translation"
+  },
+  "600": {
+    "Abbreviation": "MATH",
+    "Subject Area": "Mathematics"
+  },
+  "604": {
+    "Abbreviation": "AN SCI",
+    "Subject Area": "Animal Sciences"
+  },
+  "612": {
+    "Abbreviation": "M E",
+    "Subject Area": "Mechanical Engineering"
+  },
+  "616": {
+    "Abbreviation": "MD GENET",
+    "Subject Area": "Medical Genetics"
+  },
+  "620": {
+    "Abbreviation": "M M & I",
+    "Subject Area": "Medical Microbiology and Immunology"
+  },
+  "621": {
+    "Abbreviation": "MED PHYS",
+    "Subject Area": "Medical Physics"
+  },
+  "622": {
+    "Abbreviation": "MED SC-M",
+    "Subject Area": "Medical Sciences - Medical School"
+  },
+  "623": {
+    "Abbreviation": "MED SC-V",
+    "Subject Area": "Medical Sciences - Veterinary Medicine"
+  },
+  "632": {
+    "Abbreviation": "MEDICINE",
+    "Subject Area": "Medicine"
+  },
+  "633": {
+    "Abbreviation": "MEDIEVAL",
+    "Subject Area": "Medieval Studies"
+  },
+  "636": {
+    "Abbreviation": "M S & E",
+    "Subject Area": "Materials Science and Engineering"
+  },
+  "640": {
+    "Abbreviation": "ATM OCN",
+    "Subject Area": "Atmospheric and Oceanic Sciences"
+  },
+  "644": {
+    "Abbreviation": "MIL SCI",
+    "Subject Area": "Military Science"
+  },
+  "650": {
+    "Abbreviation": "MOL BIOL",
+    "Subject Area": "Molecular Biology"
+  },
+  "660": {
+    "Abbreviation": "MUSIC",
+    "Subject Area": "Music"
+  },
+  "664": {
+    "Abbreviation": "MUS PERF",
+    "Subject Area": "Music-Performance"
+  },
+  "672": {
+    "Abbreviation": "NAV SCI",
+    "Subject Area": "Naval Science"
+  },
+  "676": {
+    "Abbreviation": "NEUROL",
+    "Subject Area": "Neurology"
+  },
+  "678": {
+    "Abbreviation": "NEURSURG",
+    "Subject Area": "Neurological Surgery"
+  },
+  "681": {
+    "Abbreviation": "NEURODPT",
+    "Subject Area": "Neuroscience"
+  },
+  "682": {
+    "Abbreviation": "NTP",
+    "Subject Area": "Neuroscience Training Program"
+  },
+  "684": {
+    "Abbreviation": "N E",
+    "Subject Area": "Nuclear Engineering"
+  },
+  "691": {
+    "Abbreviation": "CNP",
+    "Subject Area": "Collaborative Nursing Program"
+  },
+  "692": {
+    "Abbreviation": "NURSING",
+    "Subject Area": "Nursing"
+  },
+  "694": {
+    "Abbreviation": "NUTR SCI",
+    "Subject Area": "Nutritional Sciences"
+  },
+  "695": {
+    "Abbreviation": "OCC THER",
+    "Subject Area": "Occupational Therapy (Department of Kinesiology)"
+  },
+  "700": {
+    "Abbreviation": "ONCOLOGY",
+    "Subject Area": "Oncology"
+  },
+  "702": {
+    "Abbreviation": "OPHTHALM",
+    "Subject Area": "Ophthalmology and Visual Sciences"
+  },
+  "703": {
+    "Abbreviation": "PATH-BIO",
+    "Subject Area": "Patho-Biological Sciences"
+  },
+  "704": {
+    "Abbreviation": "PATH",
+    "Subject Area": "Pathology and Laboratory Medicine"
+  },
+  "708": {
+    "Abbreviation": "PEDIAT",
+    "Subject Area": "Pediatrics"
+  },
+  "718": {
+    "Abbreviation": "PHM SCI",
+    "Subject Area": "Pharmaceutical Sciences"
+  },
+  "724": {
+    "Abbreviation": "PHMCOL-M",
+    "Subject Area": "Pharmacology"
+  },
+  "726": {
+    "Abbreviation": "PHARMACY",
+    "Subject Area": "Pharmacy"
+  },
+  "728": {
+    "Abbreviation": "PHM PRAC",
+    "Subject Area": "Pharmacy Practice"
+  },
+  "732": {
+    "Abbreviation": "S&A PHM",
+    "Subject Area": "Social and Administrative Pharmacy"
+  },
+  "736": {
+    "Abbreviation": "PHILOS",
+    "Subject Area": "Philosophy"
+  },
+  "741": {
+    "Abbreviation": "DANCE",
+    "Subject Area": "Dance"
+  },
+  "742": {
+    "Abbreviation": "KINES",
+    "Subject Area": "Kinesiology"
+  },
+  "745": {
+    "Abbreviation": "PHY THER",
+    "Subject Area": "Physical Therapy"
+  },
+  "750": {
+    "Abbreviation": "PHY ASST",
+    "Subject Area": "Physician Assistant Program"
+  },
+  "754": {
+    "Abbreviation": "PHYSICS",
+    "Subject Area": "Physics"
+  },
+  "758": {
+    "Abbreviation": "BMOLCHEM",
+    "Subject Area": "Biomolecular Chemistry"
+  },
+  "762": {
+    "Abbreviation": "PHYSIOL",
+    "Subject Area": "Physiology"
+  },
+  "766": {
+    "Abbreviation": "PL PATH",
+    "Subject Area": "Plant Pathology"
+  },
+  "778": {
+    "Abbreviation": "POLI SCI",
+    "Subject Area": "Political Science"
+  },
+  "782": {
+    "Abbreviation": "PORTUG",
+    "Subject Area": "Portuguese (Spanish and Portuguese)"
+  },
+  "810": {
+    "Abbreviation": "POP HLTH",
+    "Subject Area": "Population Health Sciences"
+  },
+  "814": {
+    "Abbreviation": "PSYCHIAT",
+    "Subject Area": "Psychiatry"
+  },
+  "820": {
+    "Abbreviation": "PSYCH",
+    "Subject Area": "Psychology"
+  },
+  "826": {
+    "Abbreviation": "PUB AFFR",
+    "Subject Area": "La Follette School of Public Affairs"
+  },
+  "828": {
+    "Abbreviation": "PUBLHLTH",
+    "Subject Area": "Public Health"
+  },
+  "832": {
+    "Abbreviation": "RADIOL",
+    "Subject Area": "Radiology"
+  },
+  "840": {
+    "Abbreviation": "RHAB MED",
+    "Subject Area": "Rehabilitation Medicine"
+  },
+  "856": {
+    "Abbreviation": "RELIG ST",
+    "Subject Area": "Religious Studies"
+  },
+  "864": {
+    "Abbreviation": "C&E SOC",
+    "Subject Area": "Community and Environmental Sociology"
+  },
+  "872": {
+    "Abbreviation": "SCAND ST",
+    "Subject Area": "Scandinavian Studies"
+  },
+  "875": {
+    "Abbreviation": "STS",
+    "Subject Area": "Science and Technology Studies"
+  },
+  "882": {
+    "Abbreviation": "SR MED",
+    "Subject Area": "Senior Medical Program"
+  },
+  "888": {
+    "Abbreviation": "SLAVIC",
+    "Subject Area": "Slavic (Slavic Languages)"
+  },
+  "896": {
+    "Abbreviation": "SOC WORK",
+    "Subject Area": "Social Work"
+  },
+  "900": {
+    "Abbreviation": "SOC",
+    "Subject Area": "Sociology"
+  },
+  "908": {
+    "Abbreviation": "SOIL SCI",
+    "Subject Area": "Soil Science"
+  },
+  "912": {
+    "Abbreviation": "SPANISH",
+    "Subject Area": "Spanish (Spanish and Portuguese)"
+  },
+  "932": {
+    "Abbreviation": "STAT",
+    "Subject Area": "Statistics"
+  },
+  "934": {
+    "Abbreviation": "COMP BIO",
+    "Subject Area": "Comparative Biosciences"
+  },
+  "936": {
+    "Abbreviation": "SURGERY",
+    "Subject Area": "Surgery"
+  },
+  "938": {
+    "Abbreviation": "SURG SCI",
+    "Subject Area": "Surgical Sciences"
+  },
+  "939": {
+    "Abbreviation": "THER SCI",
+    "Subject Area": "Therapeutic Science (Dept-Kinesis)"
+  },
+  "942": {
+    "Abbreviation": "THEATRE",
+    "Subject Area": "Theatre and Drama"
+  },
+  "944": {
+    "Abbreviation": "URB R PL",
+    "Subject Area": "Urban and Regional Planning"
+  },
+  "963": {
+    "Abbreviation": "GEN&WS",
+    "Subject Area": "Gender and Women’s Studies"
+  },
+  "970": {
+    "Abbreviation": "ZOOLOGY",
+    "Subject Area": "Zoology"
+  }
+}
