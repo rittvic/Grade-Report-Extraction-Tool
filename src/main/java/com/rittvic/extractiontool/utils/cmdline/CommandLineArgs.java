@@ -4,7 +4,7 @@ import com.beust.jcommander.Parameter;
 
 public class CommandLineArgs {
     @Parameter(names = {"-i", "-input"},
-            description = "Path to the directory with grades reports (e.g., -i path/to/grades)",
+            description = "Path to the directory with grade reports (e.g., -i path/to/grades)",
             order = 1,
             required = true)
     public String gradeDir;
