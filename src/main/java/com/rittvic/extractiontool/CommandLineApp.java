@@ -59,7 +59,7 @@ public class CommandLineApp {
 
         Set<Path> gradeReportPdfs = loadGradeReportPdfs(Path.of(commandLineArgs.gradeDir));
 
-        if (gradeReportPdfs == null) {
+        if (gradeReportPdfs == null || gradeReportPdfs.size() == 0) {
             System.err.println("Unable to find any PDF files.");
             System.err.println("Exiting ...");
             return;
